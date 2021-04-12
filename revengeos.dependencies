@@ -1,7 +1,8 @@
 [
   {
-    "repository": "PotatoDevices/device_oneplus_msm8998-common",
+    "repository": "RevengeOS-Devices/device_oneplus_msm8998-common",
     "target_path": "device/oneplus/msm8998-common",
-    "branch": "dumaloo-release"
-  }
+    "branch": "r11.0",
+    "remote": "github"
+  },
 ]
