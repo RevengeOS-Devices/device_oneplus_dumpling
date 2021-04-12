@@ -1,8 +1,17 @@
 [
   {
-    "repository": "RevengeOS-Devices/device_oneplus_msm8998-common",
-    "target_path": "device/oneplus/msm8998-common",
-    "branch": "r11.0",
-    "remote": "github"
+    "remote": "devices",
+    "repository": "device_oneplus_msm8998-common",
+    "target_path": "device/oneplus/msm8998-common"
   },
+  {
+    "remote": "devices",
+    "repository": "kernel_oneplus_msm8998",
+    "target_path": "kernel/oneplus/msm8998"
+  },
+  {
+    "remote": "devices",
+    "repository": "vendor_oneplus",
+    "target_path": "vendor/oneplus"
+  }
 ]
