@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_dumpling.mk
+    $(LOCAL_DIR)/revengeos_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_dumpling-user \
-    dot_dumpling-userdebug \
-    dot_dumpling-eng
+    revengeos_dumpling-user \
+    revengeos_dumpling-userdebug \
+    revengeos_dumpling-eng
